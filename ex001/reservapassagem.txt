@@ -1,0 +1,2 @@
+1;Sao Paulo;Natal;15/01/2022;20/01/2022
+2;Sao Paulo;Blumenau;20/01/2022;25/01/2022
